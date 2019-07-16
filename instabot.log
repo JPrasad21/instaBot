@@ -249,3 +249,100 @@
 2019-07-12 02:02:22,749 Total follows: 4/350
 2019-07-12 02:02:22,750 Total messages: 12/300
 2019-07-12 02:02:22,750 Total requests: 87
+2019-07-16 21:06:12,463 Instabot Started
+2019-07-16 21:07:32,476 Logged-in successfully as 'digiadverts'!
+2019-07-16 21:08:14,627 Bot stopped. Worked: 4 days, 20:14:50.447736
+2019-07-16 21:08:14,628 Total follows: 4/350
+2019-07-16 21:08:14,628 Total messages: 12/300
+2019-07-16 21:08:14,629 Total requests: 87
+2019-07-16 21:28:52,342 Instabot Started
+2019-07-16 21:37:49,554 Instabot Started
+2019-07-16 21:42:44,755 Instabot Started
+2019-07-16 21:43:04,175 Instabot Started
+2019-07-16 21:44:29,770 Instabot Started
+2019-07-16 22:07:13,595 Instabot Started
+2019-07-16 22:10:33,604 Instabot Started
+2019-07-16 22:11:41,122 Instabot Started
+2019-07-16 22:13:26,185 Instabot Started
+2019-07-16 22:17:19,253 Instabot Started
+2019-07-16 22:19:34,938 Instabot Started
+2019-07-16 22:22:29,319 Instabot Started
+2019-07-16 22:26:11,414 Instabot Started
+2019-07-16 22:56:18,578 Instabot Started
+2019-07-16 22:56:55,728 Logged-in successfully as 'digiadverts'!
+2019-07-16 22:57:12,321 Going to follow 6 users.
+2019-07-16 22:57:36,659 DONE: Now following 0 users in total.
+2019-07-16 22:59:26,121 Bot stopped. Worked: 0:02:13.800466
+2019-07-16 22:59:26,122 Total messages: 1/300
+2019-07-16 22:59:26,122 Total requests: 99
+2019-07-16 22:59:59,470 Instabot Started
+2019-07-16 23:00:21,059 Logged-in successfully as 'digiadverts'!
+2019-07-16 23:03:59,192 ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+2019-07-16 23:03:59,193 Message to ['3863792709'] wasn't sent
+2019-07-16 23:04:10,226 HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/users/arun_kumar01/usernameinfo/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x06937730>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-16 23:04:35,687 HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/threads/broadcast/text/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x06937510>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-16 23:04:35,688 Message to ['3863792709'] wasn't sent
+2019-07-16 23:04:35,693 HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/users/bala_______111/usernameinfo/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x069379D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-16 23:05:19,832 HTTPSConnectionPool(host='i.instagram.com', port=443): Max retries exceeded with url: /api/v1/direct_v2/threads/broadcast/text/ (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x069375B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-07-16 23:05:19,833 Message to ['3863792709'] wasn't sent
+2019-07-16 23:11:33,989 Bot stopped. Worked: 0:14:21.668239
+2019-07-16 23:11:33,989 Total messages: 4/300
+2019-07-16 23:11:33,990 Total requests: 111
+2019-07-16 23:11:40,185 Instabot Started
+2019-07-16 23:12:04,148 Logged-in successfully as 'digiadverts'!
+2019-07-16 23:14:08,728 Going to follow 6 users.
+2019-07-16 23:14:23,066 DONE: Now following 0 users in total.
+2019-07-16 23:16:12,086 Bot stopped. Worked: 0:18:59.765533
+2019-07-16 23:16:12,087 Total messages: 10/300
+2019-07-16 23:16:12,087 Total requests: 128
+2019-07-16 23:16:39,493 Instabot Started
+2019-07-16 23:17:47,949 Instabot Started
+2019-07-16 23:21:01,084 Instabot Started
+2019-07-16 23:21:17,708 Instabot Started
+2019-07-16 23:21:38,967 Instabot Started
+2019-07-16 23:22:07,590 Instabot Started
+2019-07-16 23:23:15,097 Instabot Started
+2019-07-16 23:23:38,058 Instabot Started
+2019-07-16 23:23:53,576 Instabot Started
+2019-07-16 23:24:08,509 Instabot Started
+2019-07-16 23:24:35,840 Instabot Started
+2019-07-16 23:24:52,832 Instabot Started
+2019-07-16 23:25:18,210 Instabot Started
+2019-07-16 23:26:49,908 Instabot Started
+2019-07-16 23:26:59,664 Request returns 400 error!
+2019-07-16 23:26:59,665 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-07-16 23:26:59,665 Error type: bad_password
+2019-07-16 23:26:59,666 Username or password is incorrect.
+2019-07-16 23:27:29,110 Instabot Started
+2019-07-16 23:27:37,344 Request returns 400 error!
+2019-07-16 23:27:37,344 Instagram's error message: To secure your account, we've reset your password. Tap "Get help signing in" on the login screen and follow the instructions to access your account.
+2019-07-16 23:27:37,345 Error type: unusable_password
+2019-07-16 23:27:37,345 Username or password is incorrect.
+2019-07-16 23:28:03,737 Logged-in successfully as 'digiadverts'!
+2019-07-16 23:28:29,344 Bot stopped. Worked: 0:31:17.023462
+2019-07-16 23:28:29,344 Total messages: 10/300
+2019-07-16 23:28:29,345 Total requests: 128
+2019-07-16 23:29:20,818 Instabot Started
+2019-07-16 23:29:39,776 Request returns 400 error!
+2019-07-16 23:29:39,776 Instagram's error message: The password you entered is incorrect. Please try again.
+2019-07-16 23:29:39,777 Error type: bad_password
+2019-07-16 23:29:39,777 Username or password is incorrect.
+2019-07-16 23:29:48,386 Logged-in successfully as 'digiadverts'!
+2019-07-16 23:30:00,394 Bot stopped. Worked: 0:32:48.073263
+2019-07-16 23:30:00,394 Total messages: 10/300
+2019-07-16 23:30:00,395 Total requests: 128
+2019-07-16 23:30:10,110 Instabot Started
+2019-07-16 23:30:28,705 Logged-in successfully as 'digiadverts'!
+2019-07-16 23:31:44,547 Bot stopped. Worked: 0:34:32.225962
+2019-07-16 23:31:44,548 Total messages: 10/300
+2019-07-16 23:31:44,548 Total requests: 128
+2019-07-16 23:31:47,464 Instabot Started
+2019-07-16 23:31:52,784 Request returns 400 error!
+2019-07-16 23:31:52,784 Instagram's error message: To secure your account, we've reset your password. Tap "Get help signing in" on the login screen and follow the instructions to access your account.
+2019-07-16 23:31:52,785 Error type: unusable_password
+2019-07-16 23:31:52,785 Username or password is incorrect.
+2019-07-16 23:32:16,041 Instabot Started
+2019-07-16 23:32:20,353 Request returns 400 error!
+2019-07-16 23:32:20,354 Instagram's error message: Invalid Parameters
+2019-07-16 23:32:20,354 Error type: missing_parameters
+2019-07-16 23:32:20,354 Username or password is incorrect.
